@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1039709218871",
+    "project_id": "istinyeapp",
+    "storage_bucket": "istinyeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039709218871:android:6cb23f72368a781899f7b2",
+        "android_client_info": {
+          "package_name": "com.istinye.istinye_mobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039709218871-retm0idi0e7srkue1j2m06c4s7t9b3lp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.istinye.istinye_mobil",
+            "certificate_hash": "bbcf8ae7aa0379faa4695d39a93111d38d08b0bc"
+          }
+        },
+        {
+          "client_id": "1039709218871-pgg459s4i0faubr3sr08kblnjdojh810.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnw3s7wk7WjQc2fIEOKKC7Gp3Be4hzlOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039709218871-pgg459s4i0faubr3sr08kblnjdojh810.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
